@@ -1,0 +1,45 @@
+.answear{
+    border:3px solid black;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px
+}
+
+.bi-skip-forward-circle{
+    transform: rotateY(180deg);
+}
+#answers-wrapper {
+    padding:50px 100px;
+}
+
+#player-wrapper{
+    height: 300px;
+}
+
+#play{
+    margin: 50px 0 50px 0;
+    font-size: 50px;
+}
+
+#player-icon {
+    padding: 50px 0 50px 0;
+    font-size: 200px;
+}
+
+p.success {
+    background-color: green;
+    color:white;
+}
+
+p.error {
+    background-color: red;
+    color:white;
+}
+
+i.success {
+    color:green;
+}
+
+i.error {
+    color:red;
+}
